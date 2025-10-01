@@ -24,8 +24,8 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "Mythical Mods"
-include(":app_mythical")
+rootProject.name = "Magic Mods"
+include(":app_magic")
 include(":domain")
 include(":core")
 include(":core:ui")
